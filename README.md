@@ -6,7 +6,7 @@ CARA INSTALASI PROJECT PEMROGRAMAN JAVA :
 
 CARA IMPORT FILE rental_mobil.sql :
  - buka phpmyadmin lalu create database dulu dengan nama yang serupa(rental_mobil)
- - lalu pilih menu import, kali import file rental_mobil.sql yang ada di folder database yang sudah di extrasi tadi 
+ - lalu pilih menu import, klik import file lalu pilih file rental_mobil.sql yang ada di folder database yang sudah di extrasi tadi 
 
 
 - untuk login system admin :
